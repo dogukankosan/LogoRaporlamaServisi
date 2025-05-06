@@ -1,0 +1,91 @@
+﻿Installing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe assembly.
+Committing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe assembly.
+Committing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+Installing service NoktaBilgilendirmeService...
+Service NoktaBilgilendirmeService has been successfully installed.
+Creating EventLog source NoktaBilgilendirmeService in log Application...
+Committing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+Installing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+Installing service NoktaBilgilendirmeService...
+Service NoktaBilgilendirmeService has been successfully installed.
+Creating EventLog source NoktaBilgilendirmeService in log Application...
+Committing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+Installing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+Installing service NoktaBilgilendirmeService...
+Service NoktaBilgilendirmeService has been successfully installed.
+Creating EventLog source NoktaBilgilendirmeService in log Application...
+Committing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+Installing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+Installing service NoktaBilgilendirmeService...
+Service NoktaBilgilendirmeService has been successfully installed.
+Creating EventLog source NoktaBilgilendirmeService in log Application...
+Committing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+Installing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
+Installing service NoktaBilgilendirmeService...
+Service NoktaBilgilendirmeService has been successfully installed.
+Creating EventLog source NoktaBilgilendirmeService in log Application...
+Committing assembly 'C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.exe
+   logfile = C:\Users\DOGUKAN\source\repos\NoktaBilgiIslemNotificationProject\NoktaBilgiNotificationUI\bin\Debug\Service\NoktaBilgiNotificationService.InstallLog
