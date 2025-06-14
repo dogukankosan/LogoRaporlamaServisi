@@ -1,5 +1,5 @@
 
-# LogoRa![indir (1)](https://github.com/user-attachments/assets/3d950bcd-8e45-4998-a106-f34cf835de75)
+![indir (1)](https://github.com/user-attachments/assets/3d950bcd-8e45-4998-a106-f34cf835de75)
 
 Logo Raporlama Servisi
 
