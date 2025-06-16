@@ -75,11 +75,15 @@ SQLite veya SQL Server’daki görev tablosu aşağıdaki gibi yapılandırılı
 - Loglama ile hata takibi ve analiz
 - PDF/Excel oluşturulmadan önce satır kontrolü yapılır
 
+
 ---
 
 ## 🤝 Katkı
 
 Katkı sağlamak için projeyi forklayabilir ve pull request gönderebilirsiniz.
+
+---
+
 ## 📄 Lisans
 
 MIT License
@@ -92,5 +96,6 @@ MIT License
 - 🐞 Suggestions or issues: [Issues sekmesi](https://github.com/dogukankosan/LogoWhatsappEntegrasyon/issues)
 
 ---
+
 
 
