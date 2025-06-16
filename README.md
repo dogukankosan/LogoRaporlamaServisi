@@ -77,6 +77,11 @@ SQLite veya SQL Server’daki görev tablosu aşağıdaki gibi yapılandırılı
 
 ---
 
+## 🤝 Katkı
+
+---
+
+Katkı sağlamak için projeyi forklayabilir ve pull request gönderebilirsiniz.
 ## 📄 Lisans
 
 MIT License
@@ -85,7 +90,7 @@ MIT License
 
 ## 📬 İletişim
 
-- 👨‍💻 Geliştirici: [@dogukankosan](https://github.com/dogukankosan)
-- 💬 Her türlü katkı, hata bildirimi ve öneri için: [Issues](https://github.com/dogukankosan/LogoRaporlamaServisi/issues)
+- 👨‍💻 Geliştirici: [@dogukankosan](https://github.com/dogukankosan)  
+- 🐞 Suggestions or issues: [Issues sekmesi](https://github.com/dogukankosan/LogoWhatsappEntegrasyon/issues)
 
 ---
